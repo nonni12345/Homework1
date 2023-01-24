@@ -61,4 +61,4 @@ WHERE H.city = P.city
 
 SELECT COUNT(A.pid) 
 FROM Admitted A
-GROUP BY A.pid HAVING COUNT(A.pid) > 2;
+GROUP BY A.pid HAVING COUNT(A.pid) > 3;
