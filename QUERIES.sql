@@ -40,7 +40,7 @@ ON H.ID = A.HID WHERE H.type = 'Government';
 -- workers have quit at least once? 
 
 SELECT COUNT(X) 
-FROM (SELECT 1
+FROM (SELECT hwid
 FROM Works WHERE quit_date IS NOT NULL
 GROUP BY hwid
 HAVING COUNT(hwid) > 1) X;
@@ -59,6 +59,45 @@ WHERE H.city = P.city
 -- There were 173 patients admitted to a hospital more than 2 times. How many 
 -- patients were admitted more than 3 times? 
 
-SELECT COUNT(A.pid) 
-FROM Admitted A
-GROUP BY A.pid HAVING COUNT(A.pid) > 2;
+SELECT COUNT(X)
+FROM
+    (SELECT 1
+     FROM Admitted A
+     GROUP BY A.pid
+     HAVING COUNT(A.pid) > 3) X;
+
+-- Query: G
+-- For 119 nurses there exist another nurse with the same name. For how many 
+-- physicians does there exist another physician with the same name? 
+
+SELECT COUNT(*)
+FROM HealthcareWorker HW1
+JOIN Role R ON HW1.RID = R.ID AND R.name = 'Nurse'
+    AND EXISTS
+        ( SELECT 1
+         FROM HealthcareWorker HW2
+         JOIN Role R ON HW2.RID = R.ID AND R.name = 'Nurse'
+         WHERE HW2.name = HW1.name
+             AND HW1.ID != HW2.ID )
+
+-- Query: H
+-- How many healthcare workers have not treated anyone? 
+
+SELECT HW.name FROM HealthcareWorker HW
+WHERE NOT EXISTS (
+    SELECT 1 FROM HasTreated WHERE HWID = HW.ID
+);
+
+-- Query: I
+-- What condition(s) are most common? Return the name(s) of them in a column 
+-- named "Most common condition(s)" 
+
+
+-- Query: J
+-- Write a query that returns a duplicate-free list of condition(s) of patients that 
+-- were admitted to a hospital in either Torrington or Cheyenne on the same day 
+-- that a worker who treated them quit. 
+
+SELECT DISTINCT C.name FROM Patient P
+JOIN Admitted A ON A.PID = P.ID  
+
