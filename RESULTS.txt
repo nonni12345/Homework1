@@ -1,0 +1,498 @@
+ number_of_name 
+----------------
+             11
+(1 row)
+
+ round 
+-------
+ 34613
+(1 row)
+
+ count 
+-------
+  4008
+(1 row)
+
+ count 
+-------
+   336
+(1 row)
+
+ count 
+-------
+    79
+(1 row)
+
+ count 
+-------
+    24
+(1 row)
+
+ count 
+-------
+    86
+(1 row)
+
+ count 
+-------
+   132
+(1 row)
+
+ Most common condition(s) 
+--------------------------
+ Glaucoma
+(1 row)
+
+                           name                           
+----------------------------------------------------------
+ Hemophilia
+ Cat scratch disease
+ Benign prostatic hyperplasia (BPH)
+ Leishmaniasis
+ Polycystic kidney disease
+ Cystic Fibrosis
+ Foreign body in the ear
+ Pseudohypoparathyroidism
+ Meningitis
+ Stenosis of the tear duct
+ Temporomandibular joint disorder
+ Rosacea
+ Ischemic heart disease
+ Sarcoidosis
+ VACTERL syndrome
+ Hepatitis due to a toxin
+ Chronic knee pain
+ Retinal detachment
+ Bladder cancer
+ De Quervain disease
+ Gastroesophageal reflux disease (GERD)
+ Intestinal malabsorption
+ Turner syndrome
+ Dislocation of the wrist
+ Spinal stenosis
+ Alzheimer disease
+ Alcohol abuse
+ Bladder disorder
+ Chalazion
+ Hypokalemia
+ Vocal cord polyp
+ Meningioma
+ Gout
+ Magnesium deficiency
+ Fracture of the leg
+ Endophthalmitis
+ Ischemia of the bowel
+ Rabies
+ Poisoning due to antidepressants
+ Syndrome of inappropriate secretion of ADH (SIADH)
+ Hyperkalemia
+ Von Willebrand disease
+ Bone spur of the calcaneous
+ Pityriasis rosea
+ Tinnitus of unknown cause
+ Tooth disorder
+ Hyperosmotic hyperketotic state
+ Scarlet fever
+ Cyst of the eyelid
+ High blood pressure
+ Poisoning due to antimicrobial drugs
+ Open wound from surgical incision
+ Thrombophlebitis
+ Dental caries
+ Connective tissue disorder
+ Open wound of the knee
+ Herpangina
+ Substance-related mental disorder
+ Hypercholesterolemia
+ Injury to the shoulder
+ Foreign body in the eye
+ Sprain or strain
+ Cataract
+ Goiter
+ Gas gangrene
+ Vitreous hemorrhage
+ Cranial nerve palsy
+ Alopecia
+ West Nile virus
+ Alcohol withdrawal
+ Tooth abscess
+ Pancreatic cancer
+ Acanthosis nigricans
+ Stress incontinence
+ Choledocholithiasis
+ Restless leg syndrome
+ Conversion disorder
+ Meckel diverticulum
+ Pulmonary congestion
+ Hydrocephalus
+ Spherocytosis
+ Dysthymic disorder
+ Hemolytic anemia
+ Thoracic aortic aneurysm
+ Temporary or benign blood in urine
+ Chondromalacia of the patella
+ Croup
+ Pyogenic skin infection
+ Kidney stone
+ Foreign body in the throat
+ Blepharitis
+ Hypothyroidism
+ Fracture of the rib
+ Neurofibromatosis
+ Obstructive sleep apnea (OSA)
+ Chickenpox
+ Pneumonia
+ Blastomycosis
+ Cardiac arrest
+ Diverticulosis
+ Syringomyelia
+ Breast cyst
+ Scar
+ Drug poisoning due to medication
+ Transient ischemic attack
+ Corneal abrasion
+ Systemic lupus erythematosis (SLE)
+ Hypertensive heart disease
+ Hemorrhoids
+ Open wound of the finger
+ Cornea infection
+ Drug abuse (barbiturates)
+ Blepharospasm
+ Amblyopia
+ Carbon monoxide poisoning
+ Pituitary adenoma
+ Sick sinus syndrome
+ Pyloric stenosis
+ Dengue fever
+ Intestinal obstruction
+ Heart block
+ Cirrhosis
+ Peripheral arterial embolism
+ Anemia of chronic disease
+ Brain cancer
+ Poisoning due to antihypertensives
+ Hirsutism
+ Osteochondroma
+ Neuralgia
+ Spondylitis
+ Fracture of the facial bones
+ Primary insomnia
+ Myoclonus
+ Neuropathy due to drugs
+ Abdominal hernia
+ Salivary gland disorder
+ Varicose veins
+ Vitreous degeneration
+ ung cancer
+ Toxic multinodular goiter
+ Thoracic outlet syndrome
+ Ear drum damage
+ Dislocation of the patella
+ Attention deficit hyperactivity disorder (ADHD)
+ Floaters
+ Spondylosis
+ Pericarditis
+ Pterygium
+ Down syndrome
+ Dislocation of the hip
+ Retinopathy due to high blood pressure
+ Protein deficiency
+ Benign paroxysmal positional vertical (BPPV)
+ Optic neuritis
+ Kidney cancer
+ Gastrointestinal hemorrhage
+ Open wound of the foot
+ Liver disease
+ Subdural hemorrhage
+ Tuberous sclerosis
+ Bursitis
+ Hemiplegia
+ Injury to the finger
+ Scleritis
+ Heart contusion
+ Viral exanthem
+ Atrophic skin condition
+ Osteochondrosis
+ Subconjunctival hemorrhage
+ Torticollis
+ Hypercalcemia
+ Benign kidney cyst
+ Lung contusion
+ easonal allergies (hay fever)
+ Intracranial hemorrhage
+ Trigger finger (finger disorder)
+ Peritonsillar abscess
+ Esophagitis
+ Infection of open wound
+ Anxiety
+ Colonic polyp
+ Eating disorder
+ Cryptococcosis
+ Subacute thyroiditis
+ Aspergillosis
+ Ear wax impaction
+ Crushing injury
+ Brachial neuritis
+ Peritonitis
+ Fracture of the arm
+ Thyroid cancer
+ Crohn disease
+ Ectropion
+ Neonatal jaundice
+ Carpal tunnel syndrome
+ Diabetes
+ Envenomation from spider or animal bite
+ Lateral epicondylitis (tennis elbow)
+ Open wound of the shoulder
+ Flat feet
+ Hemochromatosis
+ Urge incontinence
+ Flu
+ Teething syndrome
+ Open wound of the arm
+ Vitamin B12 deficiency
+ Cardiomyopathy
+ Muscle spasm
+ Ganglion cyst
+ Pinguecula
+ Wernicke Korsakoff syndrome
+ Panic disorder
+ Fracture of the patella
+ Fibromyalgia
+ Polycythemia vera
+ Complex regional pain syndrome
+ Atrial flutter
+ Open wound of the cheek
+ Pyelonephritis
+ Sciatica
+ Glucocorticoid deficiency
+ Injury to the hip
+ Acute bronchospasm
+ Sporotrichosis
+ Open wound of the neck
+ Sickle cell anemia
+ Postpartum depression
+ Conductive hearing loss
+ Intertrigo (skin condition)
+ Skin polyp
+ Open wound of the eye
+ Vesicoureteral reflux
+ Iron deficiency anemia
+ Viral warts
+ Von Hippel-Lindau disease
+ Esophageal varices
+ Head and neck cancer
+ Postoperative infection
+ Folate deficiency
+ Dislocation of the ankle
+ Muscular dystrophy
+ Drug abuse (opioids)
+ Uveitis
+ Intracerebral hemorrhage
+ Fat embolism
+ Gum disease
+ Mononucleosis
+ Injury to the leg
+ Itching of unknown cause
+ Poisoning due to ethylene glycol""
+ Edward syndrome
+ Acute glaucoma
+ Fracture of the skull
+ Thrombocytopenia
+ Dry eye of unknown cause
+ Hormone disorder
+ Pneumothorax
+ Glaucoma
+ Scurvy
+ Acute respiratory distress syndrome (ARDS)
+ Alcoholic liver disease
+ Hashimoto thyroiditis
+ Orthostatic hypotension
+ Kidney disease due to longstanding hypertension
+ Chronic inflammatory demyelinating polyneuropathy (CIDP)
+ Acute otitis media
+ Huntington disease
+ Intestinal disease
+ Mitral valve disease
+ Hammer toe
+ Yeast infection
+ Nonalcoholic liver disease (NASH)
+ Cellulitis or abscess of mouth
+ Poisoning due to gas
+ Juvenile rheumatoid arthritis
+ Corneal disorder
+ Anemia
+ Celiac disease
+ Trichinosis
+ Vertebrobasilar insufficiency
+ Typhoid fever
+ Leptospirosis
+ Abscess of the lung
+ Metastatic cancer
+ Anemia due to chronic kidney disease
+ Liver cancer
+ Tic (movement) disorder
+ Aplastic anemia
+ Bone cancer
+ Dislocation of the foot
+ Vasculitis
+ Congenital heart defect
+ Mumps
+ Open wound of the ear
+ Lyme disease
+ Pilonidal cyst
+ Vitamin A deficiency
+ Social phobia
+ Anemia due to malignancy
+ Heat exhaustion
+ Acute pancreatitis
+ Foreign body in the gastrointestinal tract
+ Otitis media
+ Injury to internal organ
+ Hepatic encephalopathy
+ Skin disorder
+ Foreign body in the nose
+ Onychomycosis
+ Achalasia
+ Dislocation of the knee
+ Open wound of the chest
+ Coagulation (bleeding) disorder
+ Chagas disease
+ Mastoiditis
+ Myositis
+ Jaw disorder
+ Injury to the abdomen
+ Frostbite
+ Cysticercosis
+ Persistent vomiting of unknown cause
+ Spina bifida
+ Scabies
+ Poisoning due to analgesics
+ Urethral valves
+ Cholesteatoma
+ Pulmonic valve disease
+ Pick disease
+ Drug withdrawal
+ Tension headache
+ Intracranial abscess
+ Pituitary disorder
+ Chorioretinitis
+ Friedrich ataxia
+ Cholecystitis
+ Post-traumatic stress disorder (PTSD)
+ Insulin overdose
+ Lymphoma
+ Essential tremor
+ Hydronephrosis
+ Hypoglycemia
+ Amyloidosis
+ Infectious gastroenteritis
+ Primary immunodeficiency
+ Myocarditis
+ Myasthenia gravis
+ Hypertrophic obstructive cardiomyopathy (HOCM)
+ Fungal infection of the skin
+ Premature ventricular contractions (PVCs)
+ Chronic kidney disease
+ Diverticulitis
+ Drug abuse (methamphetamine)
+ Atelectasis
+ Contact dermatitis
+ Seborrheic dermatitis
+ Open wound due to trauma
+ Narcolepsy
+ Otosclerosis
+ Tracheitis
+ Asthma
+ Open wound of the hip
+ Food allergy
+ Kidney failure
+ Marijuana abuse
+ Noninfectious gastroenteritis
+ Open wound of the abdomen
+ Reactive arthritis
+ Atrial fibrillation
+ Ependymoma
+ Lead poisoning
+ Human immunodeficiency virus infection (HIV)
+ Dermatitis due to sun exposure
+ Raynaud disease
+ Concussion
+ Whooping cough
+ Cold sore
+ Acute kidney injury
+ Fracture of the vertebra
+ Neuromyelitis optica
+ Ingrown toe nail
+ Heart attack
+ Empyema
+ Smoking or tobacco addiction
+ Emphysema
+ Diabetic kidney disease
+ Fracture of the neck
+ Degenerative disc disease
+ Pain after an operation
+ Autism
+ Stroke
+ Breast cancer
+ Wilson disease
+ Congenital malformation syndrome
+ Atonic bladder
+ Injury to the hand
+ Hyperhidrosis
+ Joint effusion
+ Rotator cuff injury
+ Pulmonary fibrosis
+ Chronic obstructive pulmonary disease (COPD)
+ Perirectal infection
+ Fracture of the hand
+ Overflow incontinence
+ Acute bronchitis
+ Lice
+ Headache after lumbar puncture
+ Indigestion
+ Actinic keratosis
+ Fluid overload
+ Metabolic disorder
+ Pulmonary eosinophilia
+ Esophageal cancer
+ Hypergammaglobulinemia
+ Adrenal adenoma
+ Alcohol intoxication
+ Labyrinthitis
+ Scleroderma
+ Obesity
+ Sinus bradycardia
+ Fungal infection of the hair
+ Myelodysplastic syndrome
+ Premature atrial contractions (PACs)
+ Primary kidney disease
+ Acute sinusitis
+ Open wound of the mouth
+ Oral mucosal lesion
+ Astigmatism
+ Chronic pain disorder
+ Cerebral palsy
+ Parkinson disease
+ Allergy to animals
+ Lymphedema
+ Malignant hypertension
+ Injury to the arm
+ Coronary atherosclerosis
+ Normal pressure hydrocephalus
+ Tietze syndrome
+ Lymphangitis
+ Injury to the knee
+ Subarachnoid hemorrhage
+ Rectal disorder
+ Cushing syndrome
+ Volvulus
+ Chronic constipation
+ Congenital rubella
+ Hemarthrosis
+ Chronic sinusitis
+ Bipolar disorder
+ Parathyroid adenoma
+ Autonomic nervous system disorder
+(449 rows)
+
